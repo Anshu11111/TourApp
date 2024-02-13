@@ -27,7 +27,20 @@
 .App-link {
   color: #61dafb;
 }
-
+.refresh{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.refresh button{
+  border: none;
+  background-color: aqua;
+ margin: 2%;
+ padding: 1%;
+ 
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

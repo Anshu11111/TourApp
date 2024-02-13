@@ -1,0 +1,22 @@
+.card{
+   width: 300px;
+ 
+   padding: 2%; 
+   margin: 2%;
+   box-shadow: 5px 5px 15px black;
+}
+.price{
+    color: green;
+    font-weight: bold;
+}
+span{
+    color: blue;
+}
+.show{
+cursor: pointer;
+}
+
+.card-image{
+    height: 200px;
+    width: 250px;
+}
